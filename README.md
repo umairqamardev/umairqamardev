@@ -2,7 +2,7 @@
 <h3 align="center">software engineer</h3>
 
 
-- 🌱 I’m currently learning **Data structures, problem solving techniques and Data-bases**
+- 🌱 I’m currently learning **Data structures and problem solving techniques with logic building**
 
 - 📫 How to reach me **umairqamar500@gmail.com**
 
