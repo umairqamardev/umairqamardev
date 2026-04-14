@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umair</h1>
-<h3 align="center">software engineer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 
 - 🌱 I’m currently learning **Data structures and problem solving techniques with logic building**
